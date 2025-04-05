@@ -63,9 +63,6 @@ pip install -r requirements.txt
   ```
   training_output/watermark_boosted/weights/best.pt
   ```
-- Training mAP: ~95%  
-- Test mAP: ~90%
-
 ---
 
 ## 4. Prediction and Visual Comparison
